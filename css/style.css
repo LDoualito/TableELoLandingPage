@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+#front{
+    padding: 50px;
+    background-color: rgba(250, 235, 215, 0.664);
+    border-radius: 10px;
+}
+
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -66,7 +72,7 @@ img{
 #section-b{
     border-radius: 10px;
     padding: 20px;
-    background: #a7a7a7;
+    background: #a7a7a760;
 }
 
 #section-b img{
